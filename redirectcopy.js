@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Coppy Tao Vả Cho Vỡ Mồm :)) : <a href='https://www.facebook.com/TragopVespaPiaggio/'>https://www.facebook.com/TragopVespaPiaggio/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Coppy Tao Vả Cho Vỡ Mồm Nhé :)) : <a href='https://www.facebook.com/TragopVespaPiaggio/'>https://www.facebook.com/TragopVespaPiaggio/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
