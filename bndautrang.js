@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://www.facebook.com/TragopVespaPiaggio/' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Vespa_May-Promotion_Banner-999x537.jpg' width='700px'/><br/>Đại Lý Vespa Piaggio Việt Nam</a>. Liên Hệ: 0986.287.470 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/vespaleduan/' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Vespa-Promo-T06.jpg' width='700px'/><br/>Đại Lý Vespa Piaggio Việt Nam</a>. Liên Hệ: 0986.287.470 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
