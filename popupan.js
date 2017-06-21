@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/TragopVespaPiaggio/';
+	var url_popup = 'https://www.facebook.com/vespaleduan/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
